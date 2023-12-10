@@ -8,3 +8,6 @@ class Practic_7:
 
     def pardons(self, name: str) -> str:
         return f'Bye, {name}!'
+      
+    def how_are_you(self, name: str) -> str:
+        return f'How are you, {name}?' 
